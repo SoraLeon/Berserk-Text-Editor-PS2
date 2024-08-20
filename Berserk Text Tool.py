@@ -1,3 +1,6 @@
+#Versão 3.0.1
+# Desenvolvido por Sora Leon
+# canal do youtube: https://www.youtube.com/SoraLeon
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
@@ -588,5 +591,5 @@ original_text_box.bind("<MouseWheel>", sync_scroll)
 line_numbers_box.bind("<MouseWheel>", sync_scroll)
 
 
-
+# Developed by Sora Leon 
 window.mainloop()
