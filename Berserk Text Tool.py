@@ -370,8 +370,7 @@ def search_text():
         messagebox.showinfo("Nenhuma Ocorrência Encontrada", "Nenhuma ocorrência foi encontrada.")
 
 translated_text_history = []
-
-  # Adicione essa linha no início do seu código para armazenar o estado original
+  
 
 def undo_translated_text(event=None):
     global translated_text_history
