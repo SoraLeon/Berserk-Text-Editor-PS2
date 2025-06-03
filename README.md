@@ -7,7 +7,6 @@ python version 3.10.9
 
 
 // PORTUGUESE:
-TRADUZA PRO JAPONÊS E INGLÊS: FUNÇÕES:
 Abrir tabela: Crie um arquivo .txt com os caracteres que você modificou ou acentuou e deseja que sejam alterados. Assim, o programa lerá e salvará as alterações conforme traduz.
 Exemplo de como salvar o arquivo de tabela:
 ç=<
